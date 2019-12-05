@@ -1,4 +1,4 @@
-name: CI
+name: Newbie_WF_01
 
 on: [push]
 
